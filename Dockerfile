@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-LABEL maintainer="dev@someproject.org"
+LABEL maintainer="dev2@someproject.org"
